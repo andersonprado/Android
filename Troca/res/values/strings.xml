@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Troca</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_layout1">Layout 1</string>
+    <string name="nome_layout1">Tela 1</string>
+    <string name="nome_layout2">Tela 2</string>
+    <string name="nome_layout3">Tela 3</string>
+    <string name="inicio">inicio</string>
+    <string name="title_activity_layout">Troca de Telas</string>
+
+</resources>
